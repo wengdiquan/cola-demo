@@ -3,6 +3,106 @@
   <component name="issues">
     <option name="index">
       <map>
+        <entry key="$PROJECT_DIR$/cola-web-demo-app/src/main/java/org/example/service/AccountsPayableAmountCalculateImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cola-web-demo-app/src/main/java/org/example/service/AmountCalculateImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cola-web-demo-app/src/main/java/org/example/service/OrderServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cola-web-demo-app/src/main/java/org/example/service/PrepaymentAmountCalculateImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cola-web-demo-client/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cola-web-demo-client/src/main/java/org/example/api/AmountCalculateExtPt.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cola-web-demo-client/src/main/java/org/example/api/OrderService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cola-web-demo-client/src/main/java/org/example/dto/domainevent/CustomerCreatedEvent.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cola-web-demo-controller/src/main/java/org/example/controller/OrderController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cola-web-demo-domain/src/main/java/org/example/domain/gateway/CreditGateway.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cola-web-demo-domain/src/main/java/org/example/domain/gateway/CustomerGateway.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cola-web-demo-domain/src/main/java/org/example/domain/order/AmountCalculateExtPt.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cola-web-demo-infrastructure/src/main/java/org/example/common/BizCode.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cola-web-demo-infrastructure/src/main/java/org/example/common/ScenarioConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cola-web-demo-infrastructure/src/main/java/org/example/common/UseCaseConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cola-web-demo-infrastructure/src/main/java/org/example/common/UserCaseConstant.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cola-web-demo-infrastructure/src/main/java/org/example/gateway/AccountsPayableAmountCalculateImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cola-web-demo-infrastructure/src/main/java/org/example/gateway/CreditGatewayImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cola-web-demo-infrastructure/src/main/java/org/example/gateway/PrepaymentAmountCalculateImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/cola-web-demo-infrastructure/src/main/java/org/example/repository/CustomerRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
           <value>
             <set />
