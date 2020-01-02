@@ -2,8 +2,6 @@ package org.example.dto.domainevent;
 
 import com.alibaba.cola.event.DomainEventI;
 
-import static org.example.dto.domainevent.DomainEventConstant.CUSTOMER_CREATED_TOPIC;
-
 /**
  * CustomerCreatedEvent
  *
